@@ -1,0 +1,37 @@
+body
+{
+	background-image: url('https://th.bing.com/th/id/R.e72a0950eb62b2bdf1abac2d25e7660e?rik=7Zikt1adGh%2bLww&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f8iAP1eI.jpg&ehk=BPBpB5%2fSj0s4uexRw2FBVti%2fXRxZ%2bT1lIPiTUSKady8%3d&risl=&pid=ImgRaw&r=0');
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
